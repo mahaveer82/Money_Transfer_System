@@ -1,0 +1,46 @@
+.navbar-expand-lg{
+    height: 200vh;
+    width: 100vh;
+    display: inline;
+    background-color:rgb(102, 174, 238);
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    color:rgb(221, 58, 58)!important;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 18px;
+    margin: 10px;
+
+}
+
+.collapse{
+    background-color: #d5ebe4;
+}
+
+.nav-link{
+    color: #017ab6;
+    font-size: 22px;
+}
+
+.navbar-nav{
+    padding: 18px;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
